@@ -44,9 +44,10 @@
 <p align='center'>
   📫 How to reach me: <a href='mailto:subhasghosh196@gmail.com'>subhasghosh196@gmail.com</a>
 </p>
-<!-- <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> hipsters and nerds have come here o/
-  
- 
-</p> -->
+<p align='center'>
+  📫 How to reach me: <a href='mailto:subhasghosh196@gmail.com'>subhasghosh196@gmail.com</a>
+</p>
+<p align ='center'>
+🌐💻 Visit My website here 🌐💻👉: <a href="https://rancho2002.github.io/"> My Portfolio </a>
+</p>
 

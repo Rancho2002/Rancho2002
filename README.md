@@ -28,6 +28,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 ### Github Stats
 
 [![Arijit Ghosh GitHub stats](https://github-readme-stats.vercel.app/api?username=rancho2002)](https://github.com/rancho2002/)
+
 ### Github Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rancho2002&theme=dark)](https://git.io/streak-stats)
@@ -36,6 +37,9 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rancho2002&repo=collegecatalyst&show_owner=true)](https://github.com/Rancho2002/collegecatalyst)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rancho2002&repo=C-projects&show_owner=true)](https://github.com/Rancho2002/C-projects)
+
+### Github Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rancho2002&layout=compact&theme=dark)](https://github.com/rancho2002/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 

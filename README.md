@@ -28,6 +28,9 @@ I have excellent design & coding skills, as well as an ability to convert requir
 ### Github Stats
 
 [![Arijit Ghosh GitHub stats](https://github-readme-stats.vercel.app/api?username=rancho2002)](https://github.com/rancho2002/)
+### Github Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rancho2002&theme=dark)](https://git.io/streak-stats)
 
 ### Github Repos
 

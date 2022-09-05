@@ -33,6 +33,10 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rancho2002&theme=dark)](https://git.io/streak-stats)
 
+### Github graph 
+
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rancho2002&&theme=xcode)](https://rancho2002.github.io/)
+
 ### Github Repos
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rancho2002&repo=collegecatalyst&show_owner=true)](https://github.com/Rancho2002/collegecatalyst)

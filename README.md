@@ -3,7 +3,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [Arijit Ghosh](https://personalpages.github.io/portfolio/)
+### Hi there 👋 I'm [Arijit Ghosh](https://rancho2002.github.io/)
 
 <img src="https://komarev.com/ghpvc/?username=rancho2002" alt="rancho2002" />
 

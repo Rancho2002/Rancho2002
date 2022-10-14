@@ -72,6 +72,8 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <a href="https://personalpages.github.io/portfolio/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-Arijit%20Ghosh-blue?style=flat&logo=google-chrome"></a>
 </p>
 
+## Holopin Badges
+[![@rancho's Holopin board](https://holopin.me/rancho)](https://holopin.io/@rancho)
 
 ⭐️ From [@rancho2002](https://github.com/rancho2002)
 `

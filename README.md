@@ -76,4 +76,3 @@ I have excellent design & coding skills, as well as an ability to convert requir
 [![@rancho's Holopin board](https://holopin.me/rancho)](https://holopin.io/@rancho)
 
 ⭐️ From [@rancho2002](https://github.com/rancho2002)
-`

@@ -43,7 +43,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rancho2002&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rancho2002&theme=dark)](https://git.io/streak-stats)
 
 ### Github graph 
 

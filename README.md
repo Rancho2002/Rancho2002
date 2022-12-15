@@ -47,7 +47,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github graph 
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rancho2002&&theme=xcode)](https://rancho2002.github.io/)
+[![Rancho's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rancho2002&theme=monokai)](https://github.com/rancho2002/github-readme-activity-graph)
 
 ### Github Repos
 

@@ -1,11 +1,12 @@
+
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
+  <img src="https://readme-typing-svg.herokuapp.com?color=491B7E&size=32&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋🏻+I'm+Arijit;+Open+Source+Enthusiast+☀;Full+Stack+Developer+💻;Problem+Solver+👨‍💻;">
 </p>
 
-### Hi there 👋 I'm [Arijit Ghosh](https://rancho2002.github.io/)
 
-<img src="https://komarev.com/ghpvc/?username=rancho2002" alt="rancho2002" />
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
+
+
 
 <div>
  <p>
@@ -13,7 +14,7 @@
 <img src="https://camo.githubusercontent.com/63abdc3407ab5749a6fa046151ee56433f7922da540e1aa8d3b5795200dde75f/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966" width="300px" alt=gif align="right"> 
 </div>
 
-I am a Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
+ I am a Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
 
 I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
 </p>
@@ -43,7 +44,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rancho2002&theme=dark)](https://git.io/streak-stats)
+<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=rancho2002&theme=radical" />
 
 ### Github graph 
 
@@ -64,12 +65,14 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <a href="https://www.hackerrank.com/subhasghosh196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@subhasghosh196" height="30" width="40" /></a>
 <a href="https://discord.gg/invite/EvilHunter#4035" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EvilHunter#4035" height="30" width="40" /></a>
 
+
 <p align="center">
 
 
 <a href="https://stackoverflow.com/users/18928490/arijit-ghosh?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Arijit%20Ghosh-blue?style=flat&logo=stackoverflow"></a>
 <a href="mailto:subhasghosh196@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-subhasghosh196@gmail.com-blue?style=flat&logo=gmail"></a>
 <a href="https://personalpages.github.io/portfolio/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-Arijit%20Ghosh-blue?style=flat&logo=google-chrome"></a>
+ <img src="https://komarev.com/ghpvc/?username=rancho2002" alt="rancho2002" />
 </p>
 
 ## Holopin Badges

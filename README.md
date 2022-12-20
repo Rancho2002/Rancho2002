@@ -8,23 +8,16 @@
 
 
 
-<div>
- <p>
- <div> 
+ 
 <img src="https://camo.githubusercontent.com/63abdc3407ab5749a6fa046151ee56433f7922da540e1aa8d3b5795200dde75f/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966" width="300px" alt=gif align="right"> 
-</div>
 
+## 🚀 About Me
  I am a Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
 
-I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
-</p>
-</div>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rancho2002" alt="rancho2002" /></a> </p>
 
-<div> 
-<img src="gif.gif" width="300px" alt=gif align="right"> 
-</div>
 
 ## ⚡Programming Languages & Tools 🌐
 

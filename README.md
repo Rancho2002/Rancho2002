@@ -64,7 +64,7 @@
 
 <a href="https://stackoverflow.com/users/18928490/arijit-ghosh?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Arijit%20Ghosh-blue?style=flat&logo=stackoverflow"></a>
 <a href="mailto:subhasghosh196@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-subhasghosh196@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="https://personalpages.github.io/portfolio/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-Arijit%20Ghosh-blue?style=flat&logo=google-chrome"></a>
+<a href="https://rancho2002.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-Arijit%20Ghosh-blue?style=flat&logo=google-chrome"></a>
  <img src="https://komarev.com/ghpvc/?username=rancho2002" alt="rancho2002" />
 </p>
 

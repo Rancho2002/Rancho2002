@@ -16,7 +16,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rancho2002" alt="rancho2002" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rancho2002" alt="rancho2002" /></a></p>
 
 
 ## ⚡Programming Languages & Tools 🌐
